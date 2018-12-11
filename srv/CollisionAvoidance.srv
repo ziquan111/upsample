@@ -1,0 +1,9 @@
+# Current
+geometry_msgs/Point c_position
+
+# Target
+geometry_msgs/Point t_position
+
+---
+# Intermediate
+geometry_msgs/Point i_position
